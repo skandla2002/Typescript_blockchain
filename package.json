@@ -1,0 +1,8 @@
+{
+  "name": "Typescript_blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/skandla2002/Typescript_blockchain.git",
+  "author": "<skandla2002@gmail.com>",
+  "license": "MIT"
+}
